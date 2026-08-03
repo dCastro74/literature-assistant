@@ -41,3 +41,4 @@ Notes and usage details for literature-assistant.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- add a note about the defaults
